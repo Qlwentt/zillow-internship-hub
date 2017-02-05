@@ -28,10 +28,15 @@ June 29  | Session 21    | **OFF**
 July 6  | Session 22    | **OFF & Graduation July 7, 2017**
 
 
-
-- Formal Mid-Point Review- April 10th  
-- April 10th- I’ll be sending an email out to companies letting them know the survey is on the way 
-- April 17th- Survey goes out 
-- April 26th- Due back to me 
-- April 27th and May 4th- Feedback given back to students.  
-- Job Offers- June 9th 
+- April 10th- Both you and the companies will be notified that the survey will be coming out next week. –
+- *This should give you guys a chance to communicate all your awesomeness to your mentors and managers
+ 
+- April 17th- Surveys sent to the company and interns 
+ 
+- April 26th- Surveys due back to Ada
+ 
+- April 27th & May 4th- Coffee, lunch, and Ada Thursday used to meet with Alexandra and Cynthia to discuss feedback
+ 	
+- June 9th- This is the date we strongly recommended that they communicate to you a hire no hire decision
+ 
+- July 7th Last day of internship & Graduation
