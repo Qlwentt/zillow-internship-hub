@@ -10,4 +10,4 @@ personal repo for zillow internship
 
 [Contact List](https://github.com/Qlwentt/zillow-internship-hub/blob/master/contact-list.md)
 
-Initial Questions: [edit](https://docs.google.com/spreadsheets/d/1-1396ZA6gL9oamv-qOagFMfcLsaBrRthVRLwH_Q4tcc/edit#gid=0)
+Initial Questions: [view](https://github.com/Qlwentt/zillow-internship-hub/blob/master/initial-questions.md); [edit](https://docs.google.com/spreadsheets/d/1-1396ZA6gL9oamv-qOagFMfcLsaBrRthVRLwH_Q4tcc/edit#gid=0)
