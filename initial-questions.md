@@ -6,7 +6,7 @@
 | personal device policy                               |                                                 |
 | Work from home policy                                |                                                 |
 | Leave policy (sick, vacation, etc.)                  |                                                 |
-| Who is my Manager/Mentor/Team Lead                   | Manager: lkjakldjflakf; Mentor: ladjflakjflkajf |
+| Who is my Manager/Mentor/Team Lead                   | Manager: Jarret; Mentor: Steve |
 | Can I move to different teams during internship?     |                                                 |
 | Who assigns me projects?                             |                                                 |
 | Who can I ask routine questions to?                  |                                                 |
