@@ -22,3 +22,4 @@
 |  In what areas can I be the most help? |  |
 |  What would you like me to accomplish during my first week? |  |
 |  Wifi password |  |
+|  How do you prefer to communicate - email or in person? |  |
