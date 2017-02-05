@@ -9,3 +9,5 @@ personal repo for zillow internship
 [Calendar](https://github.com/Qlwentt/zillow-internship-hub/blob/master/calendar.md)
 
 [Contact List](https://github.com/Qlwentt/zillow-internship-hub/blob/master/contact-list.md)
+
+Initial Questions: [edit](https://docs.google.com/spreadsheets/d/1-1396ZA6gL9oamv-qOagFMfcLsaBrRthVRLwH_Q4tcc/edit#gid=0)
