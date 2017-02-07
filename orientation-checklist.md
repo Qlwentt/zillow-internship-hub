@@ -1,3 +1,3 @@
-- [ ] Set up weekly meeting with mentor
+- [x] Set up weekly meeting with mentor
 - [ ] Make internship goals sheet
 - [ ] connect with former Zillow intern Adies
