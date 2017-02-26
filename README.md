@@ -11,3 +11,5 @@ personal repo for zillow internship
 [Contact List](https://docs.google.com/spreadsheets/d/1hiC9rLi5O6tCkx6UzoxGKbkegDSijwPDcwfRH4tZFBE/edit#gid=0)
 
 Initial Questions: [view](https://github.com/Qlwentt/zillow-internship-hub/blob/master/initial-questions.md); [edit](https://docs.google.com/spreadsheets/d/1-1396ZA6gL9oamv-qOagFMfcLsaBrRthVRLwH_Q4tcc/edit#gid=0)
+
+[CS FUN](https://github.com/Ada-Developers-Academy/textbook-curriculum/tree/master/04-cs-fundamentals/internship)
