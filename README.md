@@ -6,7 +6,7 @@ personal repo for zillow internship
 [Weekly Self-Evaluation](https://docs.google.com/forms/d/e/1FAIpQLSevIBLYuKI5Xf6Qz9o4IMlsVp_jSfkaEGghisyfWOmvtOPDDA/viewform);
 [(editing version)](https://docs.google.com/forms/d/1501H8-X2j1HPBTQjju-7JX6gHmhg8G1j1Faua-Pykck/edit)
 
-[Calendar](https://github.com/Qlwentt/zillow-internship-hub/blob/master/calendar.md)
+[Calendar](https://github.com/Ada-Developers-Academy/daily-curriculum/blob/master/cohort_schedules/C06_internship.md)
 
 [Contact List](https://docs.google.com/spreadsheets/d/1hiC9rLi5O6tCkx6UzoxGKbkegDSijwPDcwfRH4tZFBE/edit#gid=0)
 
